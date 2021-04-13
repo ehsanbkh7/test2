@@ -1,0 +1,3 @@
+include ':gradle-simple-master'
+include ':app'
+rootProject.name = "TestPluginTwo"
